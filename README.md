@@ -6,7 +6,7 @@
 ## 🚀 Key Features
 
 - **Powerful DNS Management**
-  - Supports A, AAAA, CNAME, MX, TXT, NS, SRV records
+  - Supports A, AAAA, CNAME, MX, TXT, NS records
   - Custom TTL settings
   - Toggle Cloudflare CDN proxy with a single click
 
@@ -51,7 +51,7 @@ We're actively building a community around ZoneABC.
 ## 📫 Stay Connected
 
 - Project Repo: [github.com/ZoneABC/zoneabc](https://github.com/ZoneABC/ZoneABC)
-- Website: [https://ZoneABC.net](https://zoneabc.net)
+- Website: [https://zabc.net](https://zoneabc.net)
 - Community: [GitHub Discussions](https://github.com/ZoneABC/ZoneABC/discussions)
 
 ---
