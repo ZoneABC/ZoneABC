@@ -2,7 +2,6 @@
 
 **ZoneABC** is a free subdomain distribution service developed by a small team of developers and security enthusiasts. It allows users to register subdomains under a shared parent domain, with enterprise-grade security and performance powered by **Cloudflare Enterprise**.
 
----
 
 ## 🚀 Key Features
 
@@ -26,7 +25,6 @@
 - **Multilingual Support**
   - Seamless switching between multiple languages to support global users
 
----
 
 ## 🔐 Use Case Scenarios
 
@@ -34,7 +32,6 @@
 - Safe backend API endpoint testing with Cloudflare proxy
 - Learning and experimenting with DNS, CDN, and internet infrastructure
 
----
 
 ## 📣 Join the Community
 
@@ -43,19 +40,19 @@ We're actively building a community around ZoneABC.
 - Found a bug or have a feature request? Open an [Issue](https://github.com/ZoneABC/ZoneABC/issues)
 - Want to contribute? We'd love your pull request ❤️
 
----
+
 
 ## 🌟 Project Philosophy
 
 > “Free, secure, and developer-friendly internet infrastructure should be accessible to everyone.”
 
----
+
 
 ## 📫 Stay Connected
 
-- Project Repo: [github.com/your-username/zoneabc](https://github.com/ZoneABC/ZoneABC)
+- Project Repo: [github.com/ZoneABC/zoneabc](https://github.com/ZoneABC/ZoneABC)
 - Website: [https://ZoneABC.net](https://zoneabc.net)
-- Community: [GitHub Discussions](https://github.com/your-username/ZoneABC/discussions)
+- Community: [GitHub Discussions](https://github.com/ZoneABC/ZoneABC/discussions)
 
 ---
 
