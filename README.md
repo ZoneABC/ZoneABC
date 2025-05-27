@@ -51,7 +51,7 @@ We're actively building a community around ZoneABC.
 
 ## 📫 Stay Connected
 
-- Project Repo: [github.com/ZoneABC/zoneabc](https://github.com/ZoneABC/ZoneABC)
+- Project Repo: [github.com/ZoneABC/ZoneABC](https://github.com/ZoneABC/ZoneABC)
 - Website: [https://ZoneABC.net](https://zoneabc.net)
 - Community: [GitHub Discussions](https://github.com/ZoneABC/ZoneABC/discussions)
 
