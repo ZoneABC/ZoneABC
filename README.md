@@ -1,7 +1,8 @@
-# 🌐 ZoneABC - Free Subdomains with Cloudflare Enterprise Protection
+# ZoneABC - Free, secure, and developer-friendly Subdomain Service
 
-**ZoneABC** is a free subdomain distribution service developed by a small team of developers and security enthusiasts. It allows users to register subdomains under a shared parent domain, with enterprise-grade security and performance powered by **Cloudflare Enterprise**.
+ZoneABC is a public service designed to provide free, secure, and high-performance subdomain service for developers and content creators. Users can register subdomains under our shared top-level domains to deploy personal projects, demo sites, or various development applications. Backed by Cloudflare Enterprise Plan, ZoneABC ensures enterprise-grade performance, protection, and reliability.
 
+ZoneABC is built and maintained by a passionate team of technologists, engineers, and project managers. Our mission is to lower the barriers to domain access and configuration, support innovative practices, and empower the developer community.
 
 ## 🚀 Key Features
 
@@ -51,7 +52,7 @@ We're actively building a community around ZoneABC.
 ## 📫 Stay Connected
 
 - Project Repo: [github.com/ZoneABC/zoneabc](https://github.com/ZoneABC/ZoneABC)
-- Website: [https://zabc.net](https://zoneabc.net)
+- Website: [https://ZoneABC.net](https://zoneabc.net)
 - Community: [GitHub Discussions](https://github.com/ZoneABC/ZoneABC/discussions)
 
 ---
